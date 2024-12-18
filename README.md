@@ -1,0 +1,2 @@
+# ReactConditionalRenderingWithTernary
+Created with CodeSandbox
